@@ -24,7 +24,7 @@ export function Header() {
       <div className="container flex h-16 items-center">
         <Link href="/" className="mr-6 flex items-center space-x-2">
           <Building className="h-6 w-6 text-primary" />
-          <span className="font-bold text-lg font-headline">CasaLink</span>
+          <span className="font-bold text-lg font-headline">Inmobiliaria 7yR</span>
         </Link>
         <nav className="hidden md:flex items-center space-x-6 text-sm font-medium">
           {navLinks.map((link) => (
@@ -56,7 +56,7 @@ export function Header() {
                 <div className="flex items-center justify-between border-b pb-4">
                   <Link href="/" className="flex items-center space-x-2" onClick={() => setIsOpen(false)}>
                     <Building className="h-6 w-6 text-primary" />
-                    <span className="font-bold text-lg font-headline">CasaLink</span>
+                    <span className="font-bold text-lg font-headline">Inmobiliaria 7yR</span>
                   </Link>
                 </div>
                 <nav className="flex flex-col space-y-4 mt-6">

@@ -151,10 +151,10 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div>
                 <h2 className="text-3xl md:text-4xl font-headline font-semibold">
-                  Sobre CasaLink
+                  Sobre Inmobiliaria 7yR
                 </h2>
                 <p className="mt-4 text-muted-foreground">
-                  En CasaLink, somos más que una agencia inmobiliaria; somos sus socios en la búsqueda de su próximo hogar. Con años de experiencia y un profundo conocimiento del mercado, nuestro equipo está dedicado a ofrecer un servicio excepcional y personalizado. Creemos en construir relaciones duraderas basadas en la confianza y la transparencia.
+                  En Inmobiliaria 7yR, somos más que una agencia inmobiliaria; somos sus socios en la búsqueda de su próximo hogar. Con años de experiencia y un profundo conocimiento del mercado, nuestro equipo está dedicado a ofrecer un servicio excepcional y personalizado. Creemos en construir relaciones duraderas basadas en la confianza y la transparencia.
                 </p>
                 <Button asChild className="mt-6" variant="outline">
                   <Link href="/nosotros">
@@ -165,7 +165,7 @@ export default function Home() {
               <div className="relative h-80 rounded-lg overflow-hidden shadow-lg">
                 <Image
                   src="https://picsum.photos/seed/office/800/600"
-                  alt="Oficina de CasaLink"
+                  alt="Oficina de Inmobiliaria 7yR"
                   fill
                   className="object-cover"
                   data-ai-hint="office interior"

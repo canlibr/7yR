@@ -25,7 +25,7 @@ export default function IntranetLoginPage() {
       if (email && password) {
         toast({
           title: "Inicio de sesión exitoso",
-          description: "Bienvenido a la intranet de CasaLink.",
+          description: "Bienvenido a la intranet de Inmobiliaria 7yR.",
         });
         router.push('/intranet/dashboard');
       } else {
@@ -47,7 +47,7 @@ export default function IntranetLoginPage() {
             <Building className="h-8 w-8" />
           </div>
           <CardTitle className="text-2xl font-headline">Acceso Intranet</CardTitle>
-          <CardDescription>Exclusivo para agentes y personal de CasaLink.</CardDescription>
+          <CardDescription>Exclusivo para agentes y personal de Inmobiliaria 7yR.</CardDescription>
         </CardHeader>
         <form onSubmit={handleLogin}>
           <CardContent className="space-y-4">

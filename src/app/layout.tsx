@@ -6,7 +6,7 @@ import { Footer } from "@/components/layout/Footer";
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "CasaLink",
+  title: "Inmobiliaria 7yR",
   description: "Su portal inmobiliario de confianza.",
 };
 

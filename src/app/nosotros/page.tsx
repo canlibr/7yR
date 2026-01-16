@@ -50,7 +50,7 @@ export default function NosotrosPage() {
             <div>
               <h2 className="text-3xl font-bold font-headline">Nuestra Misión</h2>
               <p className="mt-4 text-muted-foreground">
-                Nuestra misión en CasaLink es simple: ofrecer una experiencia inmobiliaria excepcional, transparente y personalizada. Nos esforzamos por superar las expectativas de nuestros clientes en cada paso del camino, construyendo relaciones duraderas basadas en la confianza, la integridad y resultados extraordinarios. Su satisfacción es la medida de nuestro éxito.
+                Nuestra misión en Inmobiliaria 7yR es simple: ofrecer una experiencia inmobiliaria excepcional, transparente y personalizada. Nos esforzamos por superar las expectativas de nuestros clientes en cada paso del camino, construyendo relaciones duraderas basadas en la confianza, la integridad y resultados extraordinarios. Su satisfacción es la medida de nuestro éxito.
               </p>
             </div>
             <div className="relative h-80 rounded-lg overflow-hidden shadow-lg">

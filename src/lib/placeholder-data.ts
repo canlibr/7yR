@@ -112,7 +112,7 @@ export const teamMembers: TeamMember[] = [
     id: "1",
     name: "Elena García",
     role: "Directora General",
-    bio: "Con más de 20 años de experiencia, Elena lidera CasaLink con pasión y una visión clara para el futuro del sector inmobiliario.",
+    bio: "Con más de 20 años de experiencia, Elena lidera Inmobiliaria 7yR con pasión y una visión clara para el futuro del sector inmobiliario.",
     imageId: "team1",
   },
   {
@@ -142,7 +142,7 @@ export const testimonials: Testimonial[] = [
     {
         id: "1",
         name: "Familia López",
-        comment: "El equipo de CasaLink nos encontró el hogar perfecto. El proceso fue transparente y profesional. ¡Totalmente recomendados!",
+        comment: "El equipo de Inmobiliaria 7yR nos encontró el hogar perfecto. El proceso fue transparente y profesional. ¡Totalmente recomendados!",
         rating: 5,
     },
     {
@@ -154,7 +154,7 @@ export const testimonials: Testimonial[] = [
     {
         id: "3",
         name: "David Schmidt",
-        comment: "Como inversor extranjero, necesitaba un equipo de confianza. CasaLink superó mis expectativas en todos los sentidos.",
+        comment: "Como inversor extranjero, necesitaba un equipo de confianza. Inmobiliaria 7yR superó mis expectativas en todos los sentidos.",
         rating: 4,
     }
 ]

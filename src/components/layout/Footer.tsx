@@ -9,7 +9,7 @@ export function Footer() {
           <div className="flex flex-col items-start">
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <Building className="h-6 w-6 text-primary" />
-              <span className="font-bold text-lg font-headline">CasaLink</span>
+              <span className="font-bold text-lg font-headline">Inmobiliaria 7yR</span>
             </Link>
             <p className="text-muted-foreground text-sm">
               Conectando hogares y corazones.
@@ -27,7 +27,7 @@ export function Footer() {
           <div>
             <h4 className="font-semibold mb-3 font-headline">Contacto</h4>
             <ul className="space-y-2 text-sm text-muted-foreground">
-              <li>info@casalink.com</li>
+              <li>info@inmobiliaria7yr.com</li>
               <li>+34 123 456 789</li>
               <li>Calle Ficticia 123, Madrid</li>
             </ul>
@@ -42,7 +42,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t pt-4 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} CasaLink. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Inmobiliaria 7yR. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
