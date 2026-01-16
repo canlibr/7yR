@@ -5,9 +5,7 @@ import { getImagesByIds } from "@/lib/image-utils";
 import { BedDouble, Bath, Home, CheckCircle, Video } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Separator } from "@/components/ui/separator";
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
-import { ContactForm } from "./_components/ContactForm";
 import { Button } from "@/components/ui/button";
 
 interface PropertyPageProps {
@@ -116,9 +114,6 @@ export default function PropertyPage({ params }: PropertyPageProps) {
                 <Video className="mr-2 h-4 w-4"/>
                 Tour Virtual
               </Button>
-              <Separator className="my-6" />
-              <h3 className="text-lg font-semibold mb-4 font-headline">Contactar al Agente</h3>
-              <ContactForm propertyTitle={property.title} />
             </CardContent>
           </Card>
         </div>
