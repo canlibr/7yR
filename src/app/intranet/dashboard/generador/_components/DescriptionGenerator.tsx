@@ -1,6 +1,5 @@
 "use client";
 
-import { useFormState } from "react-dom";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import * as z from "zod";
@@ -11,7 +10,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 import { Loader, Sparkles, Clipboard, ClipboardCheck } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useActionState } from "react";
 import { useToast } from "@/hooks/use-toast";
 
 const formSchema = z.object({
@@ -28,7 +27,7 @@ const initialState = {
 };
 
 export function DescriptionGenerator() {
-  const [state, formAction] = useFormState(generateDescriptionAction, initialState);
+  const [state, formAction] = useActionState(generateDescriptionAction, initialState);
   const [isCopied, setIsCopied] = useState(false);
   const { toast } = useToast();
 
