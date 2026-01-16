@@ -12,6 +12,7 @@ export type Property = {
   mainImage: string; // image ID
   features: string[];
   status: "En venta" | "Alquilado" | "Vendido";
+  driveLink?: string;
 };
 
 export type TeamMember = {

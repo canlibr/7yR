@@ -22,6 +22,7 @@ export const properties: Property[] = [
       "Cocina de chef",
     ],
     status: "En venta",
+    driveLink: "https://docs.google.com/document/d/1gYn2L4B44Q1n4p2JjF3k6H_9sC8Z1aJ/edit?usp=sharing&ouid=111586523916462799999&rtpof=true&sd=true"
   },
   {
     id: "2",
@@ -38,6 +39,7 @@ export const properties: Property[] = [
     mainImage: "prop2-main",
     features: ["Gran jardín", "Cocina reformada", "Cerca de colegios", "Barrio seguro"],
     status: "En venta",
+    driveLink: "https://docs.google.com/document/d/1gYn2L4B44Q1n4p2JjF3k6H_9sC8Z1aJ/edit?usp=sharing&ouid=111586523916462799999&rtpof=true&sd=true"
   },
   {
     id: "3",
@@ -54,6 +56,7 @@ export const properties: Property[] = [
     mainImage: "prop3-main",
     features: ["Ubicación céntrica", "Vistas a la ciudad", "Balcón", "Edificio con conserje"],
     status: "Alquilado",
+    driveLink: "https://docs.google.com/document/d/1gYn2L4B44Q1n4p2JjF3k6H_9sC8Z1aJ/edit?usp=sharing&ouid=111586523916462799999&rtpof=true&sd=true"
   },
   {
     id: "4",
@@ -70,6 +73,7 @@ export const properties: Property[] = [
     mainImage: "prop4-main",
     features: ["Amplia parcela", "Zona en desarrollo", "Conexiones de servicios públicos cercanas"],
     status: "En venta",
+    driveLink: "https://docs.google.com/document/d/1gYn2L4B44Q1n4p2JjF3k6H_9sC8Z1aJ/edit?usp=sharing&ouid=111586523916462799999&rtpof=true&sd=true"
   },
   {
     id: "5",
@@ -86,6 +90,7 @@ export const properties: Property[] = [
     mainImage: "prop5-main",
     features: ["Terraza 360", "Jacuzzi privado", "Vistas al mar", "Acabados de lujo"],
     status: "Vendido",
+    driveLink: "https://docs.google.com/document/d/1gYn2L4B44Q1n4p2JjF3k6H_9sC8Z1aJ/edit?usp=sharing&ouid=111586523916462799999&rtpof=true&sd=true"
   },
   {
     id: "6",
@@ -102,6 +107,7 @@ export const properties: Property[] = [
     mainImage: "prop6-main",
     features: ["Estilo rústico", "Piscina grande", "Rodeada de naturaleza", "Privacidad total"],
     status: "En venta",
+    driveLink: "https://docs.google.com/document/d/1gYn2L4B44Q1n4p2JjF3k6H_9sC8Z1aJ/edit?usp=sharing&ouid=111586523916462799999&rtpof=true&sd=true"
   },
 ];
 
