@@ -1,3 +1,88 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A beautiful modern house at dusk.",
+      "imageUrl": "https://images.unsplash.com/photo-1721815693498-cc28507c0ba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2Rlcm4lMjBob3VzZXxlbnwwfHx8fDE3Njg1MDA2MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern house"
+    },
+    {
+      "id": "prop1-main",
+      "description": "Exterior of a modern villa.",
+      "imageUrl": "https://images.unsplash.com/photo-1628012209120-d9db7abf7eab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb2Rlcm4lMjB2aWxsYXxlbnwwfHx8fDE3Njg1NTA1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern villa"
+    },
+    {
+      "id": "prop1-1",
+      "description": "Living room of a modern villa.",
+      "imageUrl": "https://images.unsplash.com/photo-1616047006789-b7af5afb8c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsaXZpbmclMjByb29tfGVufDB8fHx8MTc2ODQ4MjAyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room"
+    },
+    {
+      "id": "prop1-2",
+      "description": "Kitchen of a modern villa.",
+      "imageUrl": "https://images.unsplash.com/photo-1682888813913-e13f18692019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjBraXRjaGVufGVufDB8fHx8MTc2ODUwMzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern kitchen"
+    },
+    {
+      "id": "prop1-3",
+      "description": "Bedroom of a modern villa.",
+      "imageUrl": "https://images.unsplash.com/photo-1741308478100-85c440e1b4bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtaW5pbWFsaXN0JTIwYmVkcm9vbXxlbnwwfHx8fDE3Njg1NjYwNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist bedroom"
+    },
+    {
+      "id": "prop2-main",
+      "description": "Exterior of a cozy suburban house.",
+      "imageUrl": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdWJ1cmJhbiUyMGhvdXNlfGVufDB8fHx8MTc2ODQ2NjU1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "suburban house"
+    },
+    {
+      "id": "prop3-main",
+      "description": "Exterior of a downtown apartment building.",
+      "imageUrl": "https://images.unsplash.com/photo-1551361415-69c87624334f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhcGFydG1lbnQlMjBidWlsZGluZ3xlbnwwfHx8fDE3Njg1NjY1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "apartment building"
+    },
+    {
+      "id": "prop4-main",
+      "description": "Large plot of land for sale.",
+      "imageUrl": "https://images.unsplash.com/photo-1493780758133-e5cfb0d00354?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZW1wdHklMjBsb3R8ZW58MHx8fHwxNzY4NTY2MDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "empty lot"
+    },
+    {
+      "id": "prop5-main",
+      "description": "Luxury penthouse with city view.",
+      "imageUrl": "https://images.unsplash.com/photo-1760611656071-a8bef0578874?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsdXh1cnklMjBwZW50aG91c2V8ZW58MHx8fHwxNzY4NDg2NDM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury penthouse"
+    },
+    {
+      "id": "prop6-main",
+      "description": "Charming country house with a garden.",
+      "imageUrl": "https://images.unsplash.com/photo-1568285002954-2b13f4c67c4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y291bnRyeSUyMGhvdXNlfGVufDB8fHx8MTc2ODU2OTQ1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "country house"
+    },
+    {
+      "id": "team1",
+      "description": "Portrait of a female real estate agent.",
+      "imageUrl": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2ODU1NDczMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team2",
+      "description": "Portrait of a male real estate agent.",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njg0ODUwMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "team3",
+      "description": "Portrait of a team manager.",
+      "imageUrl": "https://images.unsplash.com/photo-1573165850883-9b0e18c44bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9mZXNzaW9uYWwlMjB3b21hbnxlbnwwfHx8fDE3Njg1MDcyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "team4",
+      "description": "Portrait of a junior agent.",
+      "imageUrl": "https://images.unsplash.com/photo-1534614971-6be99a7a3ffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx5b3VuZyUyMG1hbnxlbnwwfHx8fDE3Njg0NjM3NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "young man"
+    }
+  ]
 }
